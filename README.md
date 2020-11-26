@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning OC and Swift.
+- 🌱 I’m currently learning something about OC and Swift. And record it [here](https://github.com/lincf0912/Blog/issues).
 - 💬 Ask me about anything [here](https://github.com/lincf0912/lincf0912/issues)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
